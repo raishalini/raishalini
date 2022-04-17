@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am a Data Scientist with 3 years of experience, currently working on NLP projects in Audit domain. I hold a PG Diploma in Big Data Analytics from CDAC-ACTS, Pune. I have previously worked on Time Series Forecasting projects for clients in Supply Chain domain. I am interested in Healthcare application of Electronics & AI and would love to explore this field in near future.
+
+📫 Reach me at: https://www.linkedin.com/in/raishalini
 
 <!--
 **raishalini/raishalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
