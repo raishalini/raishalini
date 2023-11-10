@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Scientist with 3 years of experience, currently working on NLP projects in Audit domain. I hold a PG Diploma in Big Data Analytics from CDAC-ACTS, Pune. I have previously worked on Time Series Forecasting projects for clients in Supply Chain domain. I am interested in Healthcare application of Electronics & AI and would love to explore this field in near future.
+I am a master's student in Electrical Engineering with focus on Communications and AI. I have worked as a Data Scientist in Audit & Assurance and Supply Chain Management domains with projects on Natural Language Processing and Time Series Forecasting. I hold a PG Diploma in Big Data Analytics from CDAC-ACTS, Pune and a bachelor's degree in Electronics and Communication Engineering.
 
 📫 Reach me at: https://www.linkedin.com/in/raishalini
 
