@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a master's student in Electrical Engineering with focus on Communications and AI. I have worked as a Data Scientist in Audit & Assurance and Supply Chain Management domains with projects on Natural Language Processing and Time Series Forecasting. I hold a PG Diploma in Big Data Analytics from CDAC-ACTS, Pune and a bachelor's degree in Electronics and Communication Engineering.
+I am a master's student in Electrical Engineering with focus on Communications and AI. I have worked as a Data Scientist in Healthcare, Audit & Assurance and Supply Chain Management domains with projects on Natural Language Processing and Time Series Forecasting and Classical Machine Learning. I hold a PG Diploma in Big Data Analytics from CDAC-ACTS, Pune and a bachelor's degree in Electronics and Communication Engineering.
+I am currently working on my Master Thesis: Early Detection of Thermal Runaway with Signal Processing Approaches.
 
 📫 Reach me at: https://www.linkedin.com/in/raishalini
 
